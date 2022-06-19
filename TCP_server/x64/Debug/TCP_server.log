@@ -1,0 +1,9 @@
+﻿E:\迅雷下载\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (projekt_serwer_TCP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Server.cpp
+C:\Users\17628\Desktop\TCP_socket\TCP_server\Server.cpp(47,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\TCP_socket\TCP_server\Server.cpp(181,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\TCP_socket\TCP_server\Server.cpp(86,6): warning C4101:  “input_num”: 未引用的局部变量
+C:\Users\17628\Desktop\TCP_socket\TCP_server\Server.cpp(86,17): warning C4101:  “output_num”: 未引用的局部变量
+  TCP_server.vcxproj -> C:\Users\17628\Desktop\TCP_socket\x64\Debug\TCP_server.exe

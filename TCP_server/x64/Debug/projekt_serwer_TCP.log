@@ -1,0 +1,15 @@
+﻿E:\迅雷下载\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (projekt_serwer_TCP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Server.cpp
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(61,119): warning C4474:  printf: 格式字符串中传递的参数太多
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(61,119): message :  占位符和其参数预计 3 可变参数，但提供的却是 5 参数
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(15,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(46,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(51,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(60,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(39,6): warning C4101:  “input_num”: 未引用的局部变量
+C:\Users\17628\Desktop\TCP_socket\projekt_serwer_TCP\Server.cpp(39,17): warning C4101:  “output_num”: 未引用的局部变量
+  projekt_serwer_TCP.vcxproj -> C:\Users\17628\Desktop\TCP_socket\x64\Debug\TCP_server.exe
